@@ -55,3 +55,4 @@ Klik tombol maka akan muncul tampilan kotak dialog sebagai berikut:
 
 ![]()
 
+Isikan form yang ada secara lengkap. Untuk Kolom Kode Simpul merupakan kolom yang wajib di isi ( mandatory ). Lalu klik maka akan muncul tampilan halaman sebagai berikut:
