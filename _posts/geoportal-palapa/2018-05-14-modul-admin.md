@@ -171,3 +171,14 @@ pada menu Skala.
 
 - Pada menu Kategori, klik dropdown Selanjutnya pada menu fitur, klik fitur yang tersedia untuk dikelola kemudian untuk memilih kategori yang diinginkan.
 
+![kategori]()
+
+- Selanjutnya pada menu fitur, klik fitur yang tersedia untuk dikelola kemudian untuk memilih kategori yang diinginkan secara otomatis akan pindah ke menu Fitur yang dikelola, seperti terlihat pada gambar berikut:
+
+![pengelolaan fitur]()
+
+- Sedangkan untuk menghilangkan fitur pada menu Fitur yang dikelola, dikelola tinggal diklik, maka secara otomatis fitur tersebut akan hilang di menu Fitur yang dikelola.
+- Setelah menentukan fitur yang akan dikelola, selanjutnya klik maka akan muncul notifikasi sebagai berikut:
+
+![disimpan]()
+
