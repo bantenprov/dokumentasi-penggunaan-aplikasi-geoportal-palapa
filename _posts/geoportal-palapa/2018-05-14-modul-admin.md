@@ -43,16 +43,68 @@ Secara default administrator pada aplikasi palapa menggunakan login sebagai beri
 - Isikan “palapa” pada kolom Nama Pengguna
 - Isikan “palapa” sebagai password dalam kolom kata kunci
 
-A. KONFIGURASI SISTEM
+## A. KONFIGURASI SISTEM
 
 Sebelum aplikasi digunakan, admin harus melakukan konfigurasi sistem dengan mengisi beberapa informasi penting sebagai identitas Simpul Jaringan. Secara default sistem sementara di setting sebagai Simpul Nasional. Untuk melakukan pembaharuan konfigurasi dapat dilakukan sebagai berikut:
 
 - Klik pada menu Sistem maka akan muncul tampilan halaman sebagai berikut:
 
-![]()
+![sistem]()
 
 Klik tombol maka akan muncul tampilan kotak dialog sebagai berikut:
 
-![]()
+![suntig informasi]()
 
 Isikan form yang ada secara lengkap. Untuk Kolom Kode Simpul merupakan kolom yang wajib di isi ( mandatory ). Lalu klik maka akan muncul tampilan halaman sebagai berikut:
+
+![informasi simpul jaringan]()
+
+## B. MANAJEMEN LAYER JELAJAH
+
+Menu ini berfungsi untuk memilih service layer yang ada di geoserver untuk ditampilkan pada halaman frontend menu jelajah. Fungsi ini dapat digunakan apabila data sudah tersedia pada sistem.
+
+![layar jelajah]()
+
+![jelajah]()
+
+Untuk mengaktifkan service layer dapat dilakukan sebagai berikut:
+
+- Pilih salah satu service layer yang akan diaktifkan
+- Kemudian beri tanda checklist pada kolom pilih dan Aktif/No Aktif/Non-Aktif.
+
+Sebagai contoh dapat dilihat pada gambar berikut:
+
+![layer default jelajah peta]()
+
+- Selanjutnya klik selanjutnya akan muncul tampilan notifikasi sebagai berikut:
+
+![sukses disimpan]()
+
+
+Setelah tersimpan, selanjutnya user dapat melihat pada halaman front end seperti gambar berikut
+
+![geoportal palapa]()
+
+Dari halaman jelajah pada front end ini, user dapat melihat tampilan service layer yang aktif dengan langkah-langkah sebagai berikut:
+
+- Klik tool dipojok kiri bawah, maka akan muncul tampilan sebagai berikut:
+
+![tambahkan layer]()
+
+
+Dari tampilan tersebut, user dapat aktifkan atau tidak mengaktifkan layer
+
+![daftar layer]()
+
+Tampilan service layer yang aktif keduanya dapat dilihat pada gambar berikut:
+
+![services]()
+
+Tampilan service layer salah satu yang tidak aktif dapat dilihat pada gambar berikut:
+
+![tampilan service]()
+
+## C. MANAJEMEN FRONT END
+
+
+
