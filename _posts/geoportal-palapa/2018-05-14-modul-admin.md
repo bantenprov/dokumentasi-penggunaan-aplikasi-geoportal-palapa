@@ -142,3 +142,32 @@ Organisasi merupakan nama atau keterangan detail dari Nama Grup, misal: Badan Pe
 Pada saat penambahan grup sistem secara otomatis akan membuat Workspace, Role, Store, dan Set Layer Properties di Geoserver. Selain itu sistem juga akan membuat DB dengan nama sesuai nama grup yang dibuat di PostGIS/PostgreSQL.
 
 ![db postgis]()
+
+## 2. Pembaharuan Grup
+- Klik icon untuk melakukan pembaharuan dengan mengedit isian yang perlu diperbaharui, setelah itu klik
+
+![sunting group]()
+
+## 3. Menghapus Grup
+Menghapus grup berarti sistem secara otomatis akan menghapus seluruh data yang terkait dengan grup tersebut; user, layer, dan metada pada grup yang dihapus. Oleh karena itu fungsi ini sebaiknya digunakan apabila data belum terisi. Untuk melakukan penghapusan hapusan grup dari Simpul Jaringan dengan mengklik icon maka sistem akan mengeluarkan notifikasi untuk melanjutkan proses penghapusan.
+
+![hapus group]()
+
+## 4. FITUR GROUP
+Fitur group ini berfungsi untuk hak akses dalam pengelolaan fitur data KUGI yang diberikan kepada grup member, (Baca Dokumen KUGI Versi. 4).
+
+![fitur group]()
+
+Adapun tahapan yang dapat dilakukan adalah sebagai berikut:
+
+- Klik icon dropdown  Kemudian tentukan skala data yang dipilih dengan mengklik dropdown
+pada menu Group, seperti terlihat pada gambar berikut:
+
+![dropdown pilih grou]()
+
+pada menu Skala.
+
+![skala]()
+
+- Pada menu Kategori, klik dropdown Selanjutnya pada menu fitur, klik fitur yang tersedia untuk dikelola kemudian untuk memilih kategori yang diinginkan.
+
