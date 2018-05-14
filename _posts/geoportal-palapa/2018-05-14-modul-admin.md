@@ -106,5 +106,21 @@ Tampilan service layer salah satu yang tidak aktif dapat dilihat pada gambar ber
 
 ## C. MANAJEMEN FRONT END
 
+Menu Font End berfungsi untuk melakukan perubahan tampilan halaman muka layout/luar dari website geoportal palapa.
+
+![konfigurasi palapa front end]()
+
+Untuk dapat melakukan perubahan (editing) pada tampilan website, maka dapat dilakukan sebagai berikut:
+
+- Untuk mengganti tema, dapat dilakukan dengan mengklik dropdown pada kolom Tipe.
+- Untuk mengganti julul website dapat diganti pada menu Judul Situs
+- Untuk mengganti logo website dapat diganti dengan mengklik pada menu Logo Situs kemudian pilih gambar untuk menguploadnya.
+- Untuk mengganti slide background website dapat diganti dengan mengklik pada menu Berkas Gambar 1 & Berkas Gambar 1 kemudian pilih gambar untuk menguploadnya
+- Untuk mengganti keterangan gambar, dapat diganti pada menu Keterangan
+Gambar 1 dan Keterangan Gambar 2
+- Untuk mengganti judul berita, dapat diganti pada menu Judul Headline
+- Untuk mengganti Keterangan berita, dapat diganti pada menu Keterangan Headline
+- Untuk mengganti judul artikel, dapat diganti pada menu Judul Feature
+- Untuk mengganti keterangan artikel, dapat diganti pada menu Keterangan Feature
 
 
