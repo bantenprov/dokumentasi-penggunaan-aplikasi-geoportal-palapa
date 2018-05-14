@@ -123,4 +123,22 @@ Gambar 1 dan Keterangan Gambar 2
 - Untuk mengganti judul artikel, dapat diganti pada menu Judul Feature
 - Untuk mengganti keterangan artikel, dapat diganti pada menu Keterangan Feature
 
+## D. MEMBUAT GROUP USER
 
+Group user adalah wadah untuk suatu kelompok kerja pembuat atau penghasil data. Secara default pada sistem telah ada group ADMIN dan KUGI. Dalam menu ini pengguna administrator dapat melakukan penambahan, pembaharuan, dan menghapus grup yang ada.
+
+![group user]()
+
+### 1. Penambahan Grup
+Untuk dapat melakukan penambahan Grup dapat dilakukan sebagai berikut:
+
+- Klik menu Grup, lalu klik tombol
+- Isikan seluruh kolom yang ada, apabila sudah selesai klik Sebagai catatan kolom isian Nama Grup dan Nama Organisai merupakan isian wajib. Nama Grup di isi dengan satu kata tanpa “spasi
+spasi” merupakan nama singkatan dari suatu kelompok kerja/instansi, misal : BPLH, sedangkan Nama
+Organisasi merupakan nama atau keterangan detail dari Nama Grup, misal: Badan Pengendalian Lingkungan Hidup.
+
+![tambah group]()
+
+Pada saat penambahan grup sistem secara otomatis akan membuat Workspace, Role, Store, dan Set Layer Properties di Geoserver. Selain itu sistem juga akan membuat DB dengan nama sesuai nama grup yang dibuat di PostGIS/PostgreSQL.
+
+![db postgis]()
