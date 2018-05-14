@@ -182,3 +182,45 @@ pada menu Skala.
 
 ![disimpan]()
 
+## F. PENGGUNA (MEMBER)
+
+Member merupakan pengguna aplikasi yang dapat melakukan manajemen data spasial dan metadata di group masing-masing. masing masing. Administrator pada menu ini dapat melakukan penambahan member, pembaharuan password passwo rd member, dan menghapus member dari satu grup. Secara default pada sistem PALAPA sudah dibuatkan member dengan nama pengguna palapa sebagai administrator sistem.
+
+![daftar pengguna]()
+
+### 1. Menambah Pengguna
+
+Untuk dapat melakukan penambahan pengguna, dapat dilakukan sebagai berikut:
+
+- Pada menu Pengguna, klik tombol
+- Isikan semua data pada kolom yang tersedia, seperti tampilan berikut:
+
+![tambah pengguna]()
+
+- Selah data terisi, selanjutnya klik maka akan muncul notifikasi pemberitahuan sebagai berikut:
+
+![tambah pengguna berhasil]()
+
+Pada saat menambah pengguna, maka sistem secara otomatis akan membuat user di Geoserver.
+
+### 2. Pembaharuan Password dan Grup User
+
+Pembaharuan password dapat dilakukan sebagai berikut:
+
+- Pada menu Pengguna, Pengguna pilih salah satu member/user  Kemudian klik icon maka akan muncul tampilan sebagai berikut
+
+![edit pengguna]()
+
+- Isikan kata kunci baru pada kolom password
+- Setelah kata kunci baru terisi, selanjutnya klik
+- Selain password dapat juga dilakukan pembaharuan Grup apabila user tersebut berganti /berpindah tempat. Pilih Grup yang baru, selanjutnya klik
+
+### 3. Menghapus Pengguna
+
+Untuk melakukan penghapusan user/pengguna dapat dilakukan sebagai berikut:
+
+- Pada menu Pengguna, Pengguna Pilih salah satu member/user
+- Kemudian klik icon User maka akan muncul tampilan notifikasi sebagai berikut:
+
+![hapus pengguna]()
+
